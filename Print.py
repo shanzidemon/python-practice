@@ -1,3 +1,4 @@
+import sys
 print("Hello World!")
 print("Hello I am Shanzid Helal Emon")
 print("I am writing python practice code today")
@@ -5,3 +6,4 @@ print("Today is 38 July 2025")
 print("Now It is 3:12 and i am preparing for my dream")
 print("I have to crack in my life\nI have to successful in my life")
 print("I am going to sleep now")
+print(sys.version)

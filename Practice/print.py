@@ -1,1 +1,1 @@
-print("Hello\nI am shanzid\nI am a good boy")x=10y=30print(x+y)print(x-y)print(x*y)print(x/y)print(x%y)
+print("Hello\nI am shanzid\nI am a good boy")x=10y=30print(x+y)print(x-y)print(x*y)print(x/y)print(x%y)print("Area of a trangle")x=int(input("Enter the height of a trangle: "))y=int(input("Enter the width of a trangle"))print("The are of a trangle is ",x*y/2)

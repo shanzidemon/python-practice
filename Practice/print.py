@@ -1,0 +1,1 @@
+print("Hello\nI am shanzid\nI am a good boy")x=10y=30print(x+y)print(x-y)print(x*y)print(x/y)print(x%y)

@@ -10,3 +10,4 @@ y="     Hello I am shanzid.I am a genious Student     "
 print(y.strip())
 print(y.lstrip())#left strip remove kora.
 print(y.rstrip())#right strip remove kora.
+
